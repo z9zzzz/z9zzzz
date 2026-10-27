@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="/assets/header_.png" height="250"/>
 
 <div align="center">
-  <a href="https://github.com/DevZ44d">
+  <a href="https://github.com/z9zzzz">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=10B981¢er=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+AhMed+%F0%9F%91%8B;" alt="Typing SVG" />
   </a>
 </div>
@@ -31,22 +31,22 @@ Hobbies: Gaming, Coding while I am listening to music 🎶.
 Languages: Python, C++, JS, HTML, CSS, 
 Learning: Machine Learning, Artificial Intelligence.
 Telegram: @DevGit .
-Portfolio: https://deep.is-a.dev/
+Portfolio: https://zzz.is-a.dev
 ```
 
 ---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevZ44d)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/z9zzzz)
 [![Telegram](https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram)](https://t.me/DevGit)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dddi.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/z6.zzzz)
 [![PyPI](https://img.shields.io/badge/PyPI-black?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/AsyncPy/)
 
 </div>
 
 <p align="center">
-  <a href="https://deep.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
+  <a href="https://zzz.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/DevZ44d" target="_blank"><img src="https://komarev.com/ghpvc/?username=DevZ44d&label=Profile%20Visits&style=for-the-badge" alt=""></a>
 </p>
 
